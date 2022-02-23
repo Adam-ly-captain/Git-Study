@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "da4588ac-abaa-4c6b-8d0d-d884104eafd4": {
+      "ProjectGuid": "da4588ac-abaa-4c6b-8d0d-d884104eafd4",
+      "DisplayName": "UnityC",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    },
+    "e69c59ac-19f3-4b17-b7e4-572bf211485a": {
+      "ProjectGuid": "e69c59ac-19f3-4b17-b7e4-572bf211485a",
+      "DisplayName": "2048",
+      "ColorIndex": 1
+    },
+    "228f5cd3-6c97-4e80-a04f-7dcfa7550a63": {
+      "ProjectGuid": "228f5cd3-6c97-4e80-a04f-7dcfa7550a63",
+      "DisplayName": "CSharp2048",
+      "ColorIndex": 2
+    },
+    "6e87e0b6-33a3-48b6-87f3-2a57f1c974f7": {
+      "ProjectGuid": "6e87e0b6-33a3-48b6-87f3-2a57f1c974f7",
+      "DisplayName": "CSharp2048",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,15 @@
+C:\Users\59845\source\repos\UnityC\obj\Debug\net6.0\UnityC.csproj.AssemblyReference.cache
+C:\Users\59845\source\repos\UnityC\obj\Debug\net6.0\UnityC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\59845\source\repos\UnityC\obj\Debug\net6.0\UnityC.AssemblyInfoInputs.cache
+C:\Users\59845\source\repos\UnityC\obj\Debug\net6.0\UnityC.AssemblyInfo.cs
+C:\Users\59845\source\repos\UnityC\obj\Debug\net6.0\UnityC.csproj.CoreCompileInputs.cache
+C:\Users\59845\source\repos\UnityC\bin\Debug\net6.0\UnityC.exe
+C:\Users\59845\source\repos\UnityC\bin\Debug\net6.0\UnityC.deps.json
+C:\Users\59845\source\repos\UnityC\bin\Debug\net6.0\UnityC.runtimeconfig.json
+C:\Users\59845\source\repos\UnityC\bin\Debug\net6.0\UnityC.dll
+C:\Users\59845\source\repos\UnityC\bin\Debug\net6.0\ref\UnityC.dll
+C:\Users\59845\source\repos\UnityC\bin\Debug\net6.0\UnityC.pdb
+C:\Users\59845\source\repos\UnityC\obj\Debug\net6.0\UnityC.dll
+C:\Users\59845\source\repos\UnityC\obj\Debug\net6.0\ref\UnityC.dll
+C:\Users\59845\source\repos\UnityC\obj\Debug\net6.0\UnityC.pdb
+C:\Users\59845\source\repos\UnityC\obj\Debug\net6.0\UnityC.genruntimeconfig.cache
